@@ -34,7 +34,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/forhad1518/assignemt-a10.git
    cd assignment-10-client
    ```
 2. Install dependencies:
