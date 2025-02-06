@@ -1,7 +1,7 @@
-# Assignment 10 Client
+# Game Vault
 
 ## Project Overview
-This is the client-side repository for **Assignment 10**, a web-based project built using modern web development tools and libraries. The application is designed to provide an interactive and responsive user experience with state-of-the-art frontend technologies.
+"This repository contains the source code for a sports item e-commerce website. The platform allows users to browse and purchase various sports equipment and accessories. The website features a user-friendly interface, efficient product management, and a secure checkout process, providing an excellent shopping experience for sports enthusiasts."
 
 ## Features
 - **React 18:** Highly performant and flexible UI components.
